@@ -11,19 +11,19 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I am a Master's graduate at **Politecnico di Milano**, specializing in **Artificial Intelligence and Machine Learning**. My academic journey stands at the intersection of biological intelligence and computational systems.
 
 With a background in **Computer Engineering**, a Double Major in **Mathematics**, and a Minor in **Psychology**, I aim to combine the biological neural mechanisms and artificial neural networks that we can call it as a (**NeuroAI**).
 
-* 🔭 **Currently working on:** Biologically inspired controllers and Spiking Neural Networks (SNNs).
-* 🌱 **Deepening my knowledge in:** Computational Neuroscience, Artificial Intelligence and Cognitive Architectures.
-* 🎓 **Education:** M.Sc. in CS & Engineering (Polimi) | B.Sc. in Computer Engineering & Mathematics (Cankaya Univ).
+*  **Currently working on:** Biologically inspired controllers and Spiking Neural Networks (SNNs).
+*  **Deepening my knowledge in:** Computational Neuroscience, Artificial Intelligence and Cognitive Architectures.
+*  **Education:** M.Sc. in CS & Engineering (Polimi) | B.Sc. in Computer Engineering & Mathematics (Cankaya Univ).
 
 ---
 
-### 🔬 NeuroAI & Research Projects
+###  NeuroAI & Research Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ With a background in **Computer Engineering**, a Double Major in **Mathematics**
 
 ---
 
-### 🛠 Technical Arsenal
+###  Technical Background
 
 **Core & AI**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -57,7 +57,7 @@ With a background in **Computer Engineering**, a Double Major in **Mathematics**
 
 ---
 
-### 💼 Professional Experience
+###  Professional Experience
 
 * **Junior AI Engineer @ Breathe Happiness (Milan):** Engineered end-to-end ML pipelines and deployed custom NLP Chatbots utilizing fine-tuning methods.
 * **Junior Research Assistant @ Kyungpook National University:** Conducted comparative analysis of pre-trained models vs. custom architectures for signal processing.
