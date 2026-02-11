@@ -31,6 +31,7 @@ My passion lies in decoding brain signals and modeling biological plausibility i
 | :--- | :--- | :--- |
 | **Near-NES Cerebellar Control** | Developed a biologically inspired controller simulating **10,000+ neuron interactions**. Achieved 98% success in synaptic adaptation tests. | `NESTML`, `Python`, `C++` |
 | **EMG-HandNet** | Designed a CNN-BiLSTM architecture for hand gesture classification using electromyography (EMG) signals (94% accuracy). | `TensorFlow`, `Keras`, `Signal Processing` |
+| **Drowsy Driver Detection System** | Built a real-time web-based detection system using CNNs to identify driver fatigue. | `Python`, `CNN`, `Flask`, `MongoDB` |
 | **Bioinformatics Decision Support** | Integrated mRNA and miRNA expression data to infer regulatory circuits (miRcuit). | `ML Pipelines`, `Data Mining` |
 
 ---
@@ -44,7 +45,7 @@ My passion lies in decoding brain signals and modeling biological plausibility i
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Generative AI]((https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Neuroscience & Simulation**
 ![NEST](https://img.shields.io/badge/-NEST_Simulator-00599C?style=flat)
@@ -67,6 +68,7 @@ My passion lies in decoding brain signals and modeling biological plausibility i
 * **Volunteer Undergraduate Researcher @ Cankaya University:** Collaborated on agile solutions and integrated emerging technologies into business workflows.
 * **Candidate Software Engineer @ Turkish Aerospace:** Worked on Bioinformatics and Healthcare Decision Support Systems under Prof. Hasan Ogul. Publication: “miRcuit: A tool for integrating mRNA and miRNA expression data analysis to infer regulatory circuits and I served as a Student Teaching Assistant for Data Science, Data Mining, and Artificial Neural Networks
 courses, mentoring a class.”
+* **Microsoft Student Ambassador @ Microsoft** Obtained 5 Azure certifications (AI, Data, Security, etc.). Published the "Greywater Usage in Hotels" project using Power Apps.
 ---
 
 <div align="center">
