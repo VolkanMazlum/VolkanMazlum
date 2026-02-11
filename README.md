@@ -23,9 +23,7 @@ With a background in **Computer Engineering**, a Double Major in **Mathematics**
 
 ---
 
-### 🔬 NeuroAI & Research Focus
-
-My passion lies in decoding brain signals and modeling biological plausibility in AI agents.
+### 🔬 NeuroAI & Research Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
