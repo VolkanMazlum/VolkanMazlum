@@ -13,12 +13,12 @@
 
 ### 🧠 About Me
 
-I am a Master's candidate at **Politecnico di Milano**, specializing in **Artificial Intelligence and Machine Learning**. My academic journey stands at the intersection of biological intelligence and computational systems.
+I am a Master's graduate at **Politecnico di Milano**, specializing in **Artificial Intelligence and Machine Learning**. My academic journey stands at the intersection of biological intelligence and computational systems.
 
-With a background in **Computer Engineering**, a Double Major in **Mathematics**, and a Minor in **Psychology**, I aim to bridge the gap between biological neural mechanisms and artificial neural networks (**NeuroAI**).
+With a background in **Computer Engineering**, a Double Major in **Mathematics**, and a Minor in **Psychology**, I aim to combine the biological neural mechanisms and artificial neural networks that we can call it as a (**NeuroAI**).
 
 * 🔭 **Currently working on:** Biologically inspired controllers and Spiking Neural Networks (SNNs).
-* 🌱 **Deepening my knowledge in:** Computational Neuroscience, NEST Simulator, and Cognitive Architectures.
+* 🌱 **Deepening my knowledge in:** Computational Neuroscience, Artificial Intelligence and Cognitive Architectures.
 * 🎓 **Education:** M.Sc. in CS & Engineering (Polimi) | B.Sc. in Computer Engineering & Mathematics (Cankaya Univ).
 
 ---
@@ -43,6 +43,8 @@ My passion lies in decoding brain signals and modeling biological plausibility i
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Generative AI]((https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Neuroscience & Simulation**
 ![NEST](https://img.shields.io/badge/-NEST_Simulator-00599C?style=flat)
@@ -58,10 +60,13 @@ My passion lies in decoding brain signals and modeling biological plausibility i
 
 ### 💼 Professional Experience
 
-* **AI Engineer @ Breathe Happiness (Milan):** Engineered end-to-end ML pipelines and deployed custom NLP Chatbots utilizing fine-tuning methods.
-* **Research Assistant @ Kyungpook National University:** Conducted comparative analysis of pre-trained models vs. custom architectures for signal processing.
-* **Software Engineer @ Turkish Aerospace:** Collaborated on agile solutions and integrated emerging technologies into business workflows.
-
+* **Junior AI Engineer @ Breathe Happiness (Milan):** Engineered end-to-end ML pipelines and deployed custom NLP Chatbots utilizing fine-tuning methods.
+* **Junior Research Assistant @ Kyungpook National University:** Conducted comparative analysis of pre-trained models vs. custom architectures for signal processing.
+* **Candidate Software Engineer @ Turkish Aerospace:** Collaborated on agile solutions and integrated emerging technologies into business workflows.
+* **Volunteer Summer Intern @ TUBITAK Space Technologies Research Institute:** Developed a tool in MATLAB that draws optical lenses based on unique input values.
+* **Volunteer Undergraduate Researcher @ Cankaya University:** Collaborated on agile solutions and integrated emerging technologies into business workflows.
+* **Candidate Software Engineer @ Turkish Aerospace:** Worked on Bioinformatics and Healthcare Decision Support Systems under Prof. Hasan Ogul. Publication: “miRcuit: A tool for integrating mRNA and miRNA expression data analysis to infer regulatory circuits and I served as a Student Teaching Assistant for Data Science, Data Mining, and Artificial Neural Networks
+courses, mentoring a class.”
 ---
 
 <div align="center">
