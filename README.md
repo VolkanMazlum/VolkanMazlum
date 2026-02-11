@@ -65,10 +65,11 @@ My passion lies in decoding brain signals and modeling biological plausibility i
 * **Junior Research Assistant @ Kyungpook National University:** Conducted comparative analysis of pre-trained models vs. custom architectures for signal processing.
 * **Candidate Software Engineer @ Turkish Aerospace:** Collaborated on agile solutions and integrated emerging technologies into business workflows.
 * **Volunteer Summer Intern @ TUBITAK Space Technologies Research Institute:** Developed a tool in MATLAB that draws optical lenses based on unique input values.
-* **Volunteer Undergraduate Researcher @ Cankaya University:** Collaborated on agile solutions and integrated emerging technologies into business workflows.
-* **Candidate Software Engineer @ Turkish Aerospace:** Worked on Bioinformatics and Healthcare Decision Support Systems under Prof. Hasan Ogul. Publication: “miRcuit: A tool for integrating mRNA and miRNA expression data analysis to infer regulatory circuits and I served as a Student Teaching Assistant for Data Science, Data Mining, and Artificial Neural Networks
+* **Volunteer Undergraduate Researcher @ Cankaya University:** Worked on Bioinformatics and Healthcare Decision Support Systems under Prof. Hasan Ogul. Publication: “miRcuit: A tool for integrating mRNA and miRNA expression data analysis to infer regulatory circuits and I served as a Student Teaching Assistant for Data Science, Data Mining, and Artificial Neural Networks
 courses, mentoring a class.”
 * **Microsoft Student Ambassador @ Microsoft** Obtained 5 Azure certifications (AI, Data, Security, etc.). Published the "Greywater Usage in Hotels" project using Power Apps.
+* **Summer Intern @ STM** Worked on image transmission between drones and platforms using MAVlink protocol with C++.
+* **Summer Intern @ TürkTelekom** 
 ---
 
 <div align="center">
