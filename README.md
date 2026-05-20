@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Artificial Intelligence Engineer | NeuroAI Researcher | Mathematician**
+**Computer Engineer | NeuroAI Researcher | Mathematician**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volkanmazlum/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:volkanmazlumvm@gmail.com)
